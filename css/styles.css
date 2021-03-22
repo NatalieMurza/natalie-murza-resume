@@ -50,7 +50,7 @@ a {
 .header3_sidebar {
   text-align: center;
 }
-.contact_item {
+.text_central {
   text-align: center;
 }
 .text_sidebar_item {
@@ -58,4 +58,8 @@ a {
 }
 p {
   font-style: italic;
+}
+footer {
+  text-align: center;
+  font-size: 14px;
 }
