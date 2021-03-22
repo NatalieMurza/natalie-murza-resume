@@ -1,0 +1,61 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+
+  background: #ececec;
+}
+
+a {
+  color: inherit;
+}
+
+.main_section {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 900px;
+  margin: auto;
+}
+.main_content {
+  padding: 25px;
+  background: #fafafa;
+}
+.name_and_profession {
+  margin: 50px;
+  color: #d8a098;
+  padding: 10px;
+}
+.header1 {
+  font-size: 55px;
+}
+.header2 {
+  font-size: 23px;
+}
+.header3 {
+  font-size: 20px;
+  color: #d8a098;
+}
+.work_expirience {
+}
+.education {
+}
+.courses {
+}
+.sidebar {
+  background-color: #3e3e3e;
+  width: 300px;
+  color: #d8a098;
+}
+.text_content_sidebar {
+  padding: 15px;
+}
+.header3_sidebar {
+  text-align: center;
+}
+.contact_item {
+  text-align: center;
+}
+.text_sidebar_item {
+  color: #fafafa;
+}
+p {
+  font-style: italic;
+}
